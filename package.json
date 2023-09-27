@@ -1,0 +1,20 @@
+{
+  "name": "async_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo"
+  ],
+  "author": "Elam Vera",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
